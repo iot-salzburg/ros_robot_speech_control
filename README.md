@@ -12,7 +12,7 @@ roslaunch panda_moveit_config moveit_rviz.launch
 source workspace/devel/setup.bash
 rosrun niks_experiments StretchingSpeech
 
-Das Paket MultilingualROSSpeechControl ist hier auf git unter ros_tts_stt_nodes zu finden:
+# Das Paket MultilingualROSSpeechControl ist hier auf git unter ros_tts_stt_nodes zu finden:
 
 cd workspace/src/MultilingualROSSpeechControl/
 python TTSNode.py
